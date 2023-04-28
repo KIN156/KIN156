@@ -4,5 +4,5 @@ I'm Kinjalkumari, a skilled web developer with extensive knowledge of HTML, CSS,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIN156&show_icons=true&theme=radical)
 
-
+Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
