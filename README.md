@@ -4,6 +4,11 @@ I'm Kinjalkumari, a skilled web developer with extensive knowledge of HTML, CSS,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIN156&show_icons=true&theme=radical)
 
-Skills
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py)](https://skillicons.dev)
+
+
+## Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
