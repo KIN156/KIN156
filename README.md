@@ -11,4 +11,5 @@ I'm Kinjalkumari, a skilled web developer with extensive knowledge of HTML, CSS,
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIN156&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
