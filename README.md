@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kinjalkumari, a skilled web developer with extensive knowledge of HTML, CSS, JavaScript, React, and Node. My passion for data analysis has led me to explore Python and SQL, which I use to extract insights and build powerful solutions.
+I'm Kinjalkumari, a skilled web developer with extensive knowledge of HTML, CSS, JavaScript, React, and Node. My passion for data analysis has led me to explore Python and ML, which I use to extract insights and build powerful solutions.
 
 ## Skills
 
