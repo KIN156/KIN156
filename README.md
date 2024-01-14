@@ -12,9 +12,6 @@
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
-</> and Crafted with 💛 by Vishwa Gaurav
 
 
 
@@ -107,5 +104,3 @@ Twitter API pricing changes Killed this tool sadly
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
