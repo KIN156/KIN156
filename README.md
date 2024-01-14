@@ -76,7 +76,6 @@ if (codeWorking){
                 codeQuality++;
             }
         }
-// - Vishwa Gaurav
 ```
 
 <!--
