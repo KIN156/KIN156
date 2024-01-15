@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Kinjalkumari Dhimmar</br> 
 </h1>
 <p align="center">
-<img src="https://github.com/KIN156/KIN156/blob/main/girl_with_mac.gif">
+<img src="https://github.com/KIN156/KIN156/blob/main/ezgif-7-c89bdcb86d.gif">
 </p>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
