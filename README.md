@@ -9,9 +9,18 @@
 
 
 ## Creation 👨‍💻
-### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://kin156.github.io/Portfolio/) ,
-</> and Crafted with 💛 by Vishwa Gaurav
+### Portfolio 
+[Kinjal Dhimmar - Portfolio](https://kin156.github.io/Portfolio/) ,
+</> and Crafted with 💛 by Kinjal Dhimmar
+
+### CRM - DJango
+[CRM : Using Django](https://github.com/KIN156/CRM-Django) Django CRM is an open-source Customer Relationship Management web application built using the Django framework. It helps businesses manage their customer interactions, streamline processes, and improve customer relationships.
+
+### Digital Resume
+[Digi Resume](https://kin156.github.io/Digital-Resume/) Digital resume of mine shows my projects and my skills.
+
+### BMI Calculator
+[BMI Calc](https://kin156.github.io/BMI_Calc/) It is a mini project. It is a BMI (Body Mass Index Calculator).
 
 
 
