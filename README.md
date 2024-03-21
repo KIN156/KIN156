@@ -21,7 +21,7 @@
 ### CRM - DJango
 [CRM : Using Django](https://github.com/KIN156/CRM-Django) Django CRM is an open-source Customer Relationship Management web application built using the Django framework. It helps businesses manage their customer interactions, streamline processes, and improve customer relationships.
 
-### Audify - Text to speech)
+### Audify - Text to speech
 [Audify](https://main.d2yciytiz0d51h.amplifyapp.com/) It is a react application which convert text in to the speech with variaty of voice. Amazon polly is used for the converter.
 
 ### Digital Resume
